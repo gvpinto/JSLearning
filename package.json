@@ -1,0 +1,22 @@
+{
+  "name": "jslearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jasmine",
+    "watch": "npm test -- --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.2.9"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-spec-reporter": "^2.4.0",
+    "mocha": "^2.3.4"
+  }
+}
